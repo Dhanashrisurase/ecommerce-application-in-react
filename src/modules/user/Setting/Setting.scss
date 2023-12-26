@@ -1,0 +1,141 @@
+body {
+  background-color: rgb(241, 241, 241);
+}
+.SettingMain {
+  margin-left: 10rem;
+  display: flex;
+
+}
+.ProfileLefthead {
+  width: 100%;
+  margin-top: -15px;
+}
+.ProfileLeftDiv {
+  width: 7.5%;
+  float: left;
+  vertical-align: middle;
+  height: 180px;
+  padding: 2.5rem;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  text-align: left;
+  background-color: #ffffff;
+  margin-right: 20px;
+  margin-top: 50px;
+  margin-left: 5px;
+}
+.ProfileRightDiv {
+  width: 75%;
+  height: 350px;
+  margin-right: 5%;
+  float: right;
+  text-align: left;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  padding: 20px;
+  background-color: #ffffff;
+  margin-top: 50px;
+}
+
+.settingHeading {
+  display: flex;
+  
+}
+.Settingerror {
+  color: red;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  padding: 0%;
+  margin-left: 10px;
+}
+.ResetInput1 {
+  height: 25px;
+  width: 95%;
+  margin-left: 10px;
+  margin-bottom: 0%;
+  padding: 0%;
+  margin-top: 7px;
+}
+.input2 {
+  height: 25px;
+  width: 60%;
+  margin-left: 10px;
+  margin-bottom: 1rem;
+  padding: 0%;
+  margin-top: 0.5rem;
+}
+.ResetSpan {
+  height: 2rem;
+}
+.textinput {
+  height: 50px;
+  width: 60%;
+  margin-left: 10px;
+  margin-bottom: 1rem;
+  padding: 0%;
+  margin-top: 0.5rem;
+}
+.signup {
+  height: 380px;
+  width: 600px;
+  text-align: left;
+  margin: auto;
+}
+.signUpForm {
+  height: 300px;
+  margin-top: 40px;
+  position: absolute;
+}
+.signupLabel1 {
+  margin-bottom: 5px;
+  margin-left: 10px;
+  font-size: smaller;
+}
+// .radioSelect{
+//   margin-left: 40px;
+// }
+.signUPBtn1 {
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.leftItems {
+  margin: top 0;
+  text-align: center;
+  margin-bottom: 0;
+  margin-left: -40px;
+  height: 50px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  width: 167px;
+  background-color: rgb(213, 247, 247);
+  padding-top: 16px;
+}
+
+.leftItems:hover {
+  background-color: rgb(160, 245, 241);
+}
+.DelAccRightDiv {
+  margin-top: 10%;
+  text-align: center;
+}
+.DelAccBtn{
+  margin-top: 10%;
+}
+.DelAccYes{
+  margin-right: 5rem;
+  background-color: red;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 0.4rem;   
+  cursor: pointer;
+}
+.DelAccNo{
+background-color: green;
+padding-left: 1rem;
+padding-right: 1rem;
+padding-top: 0.5rem;
+padding-bottom: 0.5rem;
+border-radius: 0.4rem;
+cursor: pointer;
+}

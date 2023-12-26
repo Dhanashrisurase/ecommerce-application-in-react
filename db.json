@@ -1,0 +1,706 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 1199,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 90,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "iPhone 9",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies.",
+      "price": 4998,
+      "discountPercentage": 12.96,
+      "rating": 5.69,
+      "stock": 54,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngitem.com/pimgs/m/516-5165169_refurbished-apple-iphone-11-64gb-red-vodafone-a.png"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 7888,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 98,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "iPhone 9",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies.",
+      "price": 5433,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 96,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "iPhone 10",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 5467,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 123,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.citypng.com/public/uploads/small/11662587434bdujmgucbknv65zugjqgnmtawtlrblyi2jvi5gbhaaltbfn5bvlx7mxwrcneujfn3him4brre9vj2msttsqephuok32heydhlvvo.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "iPhone",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 54999,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 994,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71ZDY57yTQL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "iPhone 12",
+      "description": "iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.",
+      "price": 2439,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 944,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_hero_09142021_inline.jpg.large.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "iPhone 13",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 87,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-12-Transparent-PNG.png"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "iPhone 9",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies.",
+      "price": 579,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 97,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-12-Transparent-Background.png"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "iPhone 12 pro",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 54239,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngitem.com/pimgs/m/516-5165169_refurbished-apple-iphone-11-64gb-red-vodafone-a.png"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "iPhone 9 pro max",
+      "description": "iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.",
+      "price": 5459,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngitem.com/pimgs/m/516-5165169_refurbished-apple-iphone-11-64gb-red-vodafone-a.png"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "iPhone 13",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 54449,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG3.png"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "iPhone pro max",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 5499,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "iPhone 11",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 2549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71ZDY57yTQL._SL1500_.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "iPhone 11 pro max",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 4549,
+      "discountPercentage": 12.96,
+      "rating": 2.69,
+      "stock": 95,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngitem.com/pimgs/m/516-5165169_refurbished-apple-iphone-11-64gb-red-vodafone-a.png"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "iPhone 9",
+      "description": "iPhone shows if the mic or camera is open by any app",
+      "price": 4549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://freepngimg.com/thumb/apple_iphone/133296-11-apple-iphone-free-transparent-image-hq.png"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "iPhone 10",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://down.imgspng.com/download/2110/iphone_13_PNG31.png"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "iPhone ",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-12-PNG-Photos.png"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "iPhone 14",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 5549,
+      "discountPercentage": 12.96,
+      "rating": 2.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-12-Transparent-PNG.png"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "iPhone 14 pro",
+      "description": "iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.",
+      "price": 6549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 14,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://pngimg.com/uploads/iphone_12/iphone_12_PNG3.png"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "iPhone 14 pro max",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 7549,
+      "discountPercentage": 12.96,
+      "rating": 5.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://assets.stickpng.com/images/61d2f93392b57c0004c64747.png"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "iPhone 10",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 9549,
+      "discountPercentage": 12.96,
+      "rating": 2.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://down.imgspng.com/download/2110/iphone_13_PNG31.png"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "iPhone 11",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "iPhone 11 pro",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 1549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-12-PNG-Photos.png"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "iPhone 11 pro max",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 2549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 92,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone13_hero_09142021_inline.jpg.large.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "iPhone 11",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 44,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://pngimg.com/d/iphone_13_PNG2.png"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "iPhone 9",
+      "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 7.69,
+      "stock": 4,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://assets.stickpng.com/images/61d2f93392b57c0004c64747.png"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "iPhone 12",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 6.69,
+      "stock": 44,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.pngmart.com/files/15/Apple-iPhone-12-Transparent-Background.png"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "iPhone 12",
+      "description": "iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 5.69,
+      "stock": 74,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "..",
+      "images": [
+        "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+      ]
+    }
+  ],
+  "sales": {
+    "qty": [
+      23,
+      34,
+      32,
+      23,
+      50
+    ],
+    "labels": [
+      "redmi",
+      "nokia",
+      "vivo",
+      "oppo",
+      "iPhone"
+    ]
+  },
+  "users": [
+    {
+      "name": "Gayatri",
+      "email": "dhanashrisurase@gmail.com",
+      "password": "Dhanashri@123",
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "name": "pooja",
+      "email": "pooja@gmail.om",
+      "password": "Pooja@123",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "name": "dhanashri rajaram surase",
+      "email": "gayatri@gmail.com",
+      "password": "Gayatri@123",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "jon",
+      "email": "jon@gmail.com",
+      "password": "Jon@12345",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "ran",
+      "email": "ran@gmail.com",
+      "password": "Ran@1234",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "Dhanashri@123",
+      "gender": "female",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "userEmail": "dhanashrisurase@gmail.com",
+      "product": {
+        "id": 3,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 7888,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 98,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+        ]
+      },
+      "id": 3
+    },
+    {
+      "userEmail": "dhanashrisurase123@gmail.com",
+      "product": {
+        "id": 12,
+        "title": "iPhone 13",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 54449,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://pngimg.com/uploads/iphone_12/iphone_12_PNG3.png"
+        ]
+      },
+      "id": 4
+    },
+    {
+      "userEmail": "dhanashrisurase123@gmail.com",
+      "product": {
+        "id": 4,
+        "title": "iPhone 9",
+        "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies.",
+        "price": 5433,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 96,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+        ]
+      },
+      "id": 5
+    },
+    {
+      "userEmail": "dhanashrisurase@gmail.com",
+      "product": {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 1199,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 90,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.citypng.com/public/uploads/preview/-21602680152czvchasxso.png"
+        ]
+      },
+      "id": 6
+    },
+    {
+      "userEmail": "dhanashrisurase@gmail.com",
+      "product": {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 1199,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 90,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png"
+        ]
+      },
+      "id": 7
+    },
+    {
+      "userEmail": "pooja@gmail.om",
+      "product": {
+        "id": 2,
+        "title": "iPhone 9",
+        "description": "iPhone, series of smartphones produced by Apple Inc., combining mobile telephone, digital camera, music player, and personal computing technologies.",
+        "price": 4998,
+        "discountPercentage": 12.96,
+        "rating": 5.69,
+        "stock": 54,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.pngitem.com/pimgs/m/516-5165169_refurbished-apple-iphone-11-64gb-red-vodafone-a.png"
+        ]
+      },
+      "id": 8
+    },
+    {
+      "userEmail": "pooja@gmail.om",
+      "product": {
+        "id": 3,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 7888,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 98,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+        ]
+      },
+      "id": 9
+    },
+    {
+      "userEmail": "gayatri@gmail.com",
+      "product": {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 1199,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 90,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.pngmart.com/files/15/Apple-iPhone-11-PNG-Image.png"
+        ]
+      },
+      "id": 10
+    },
+    {
+      "userEmail": "jon@gmail.com",
+      "product": {
+        "id": 3,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 7888,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 98,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://www.nicepng.com/png/detail/901-9012731_iphone-x-png-iphone-x-png-back.png"
+        ]
+      },
+      "id": 12
+    },
+    {
+      "userEmail": "test@gmail.com",
+      "product": {
+        "id": 12,
+        "title": "iPhone 13",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 54449,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "..",
+        "images": [
+          "https://pngimg.com/uploads/iphone_12/iphone_12_PNG3.png"
+        ]
+      },
+      "id": 13
+    }
+  ]
+}

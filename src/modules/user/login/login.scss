@@ -1,0 +1,70 @@
+h1{
+    margin-top: 30px;
+}
+.error {
+  color: red;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  padding: 0%;
+  margin-left: 40px;
+}
+.input {
+  height: 25px;
+  width: 505px;
+  margin-left: 40px;
+  margin-bottom: 0%;
+  padding: 0%;
+  margin-top: 7px;
+}
+.signup {
+  height: 380px;
+  width: 600px;
+  text-align: left;
+  margin: auto;
+}
+.signUpForm {
+  height: 300px;
+  margin-top: 40px;
+  position: absolute;
+}
+.signupLabel {
+  margin-bottom: 5px;
+  margin-left: 40px;
+  font-size: smaller;
+}
+
+.signUPBtn {
+  margin-left: 270px;
+  margin-top: 20px;
+}
+.loginLink{
+  margin-left: 40px;
+}
+@media only screen and (max-width: 700px) {
+  .signup {
+    margin: auto;
+    width: 400px;
+  }
+  .input {
+    width: 350px;
+    margin-left: 20px;
+    margin-bottom: 0%;
+  }
+  .signupLabel {
+    margin-left: 20px;
+  }
+  .signUPBtn {
+    margin-top: 10px;
+    margin-left: 45%;
+  }
+  .error{
+    margin-left: 20px;
+  }
+  .loginLink{
+    margin-left: 20px;
+  }
+  .navlink-text{
+    color: black;
+    background-color: black;
+  }
+}

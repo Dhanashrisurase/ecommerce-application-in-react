@@ -1,0 +1,87 @@
+.container-sidebar{
+    display: flex;
+    height: 100vh;
+}
+.heading{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.image-logo{
+    width: 5rem;
+    height: 5rem;
+    display: flex;    
+    flex-direction: row;
+}
+.card{
+    margin-left: 2rem;
+    margin-top: 2rem;
+    background: #e0eafc;
+    width: 100%;
+    height: 8rem;
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 2px grey;
+    @media (min-width: 1024px) {
+        width: 30%;
+      }
+    
+}
+.card-left{
+    display: flex;
+}
+.card-right{
+    display: flex;
+}
+.card-second{
+    margin-left: 1rem;
+}
+.card-title{
+    font-size: 1rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 4rem;
+    color: blue;
+    margin-top: 20px;
+}
+.card-subtitle{
+    font-size: 0.8rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 4rem;
+    color: blue;
+    margin-top: 20px;
+}
+.charts{
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    @media (min-width: 768px) {
+        flex-direction: row;
+      }
+}
+.chart1{
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 5px;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    @media (min-width: 768px) {
+        width: 50%;
+      }
+}
+.chart2{
+    width: 100%;
+    margin-top: 20px;
+    padding: 5px;
+    height: 50%;
+    align-items: flex-end;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    @media (min-width: 768px) {
+        width: 50%;
+      }
+}
+    
+// npx json-server --watch db.json --port 3002
+// npm start

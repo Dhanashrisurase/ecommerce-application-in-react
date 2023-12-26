@@ -1,0 +1,19 @@
+.main{
+    background-color: white;
+    width: 12rem;
+    padding-left: 20px;
+    height: 10rem;
+    box-shadow: 0 0 2rem 0 rgba(41,48,66,.1);
+    border-radius: 0.8rem;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+}
+.popup_items{
+    display: flex;
+    flex-direction: row;
+}
+button{
+    outline: none;
+    margin-top: -2rem;
+}
